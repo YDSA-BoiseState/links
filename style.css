@@ -4,6 +4,9 @@ body {
     color: red;
     font-size: x-large;
 }
+h2 {
+    font-size: large;
+}
 .page {
     margin: 0px 5vw;
 }
